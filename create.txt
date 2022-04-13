@@ -1,0 +1,1 @@
+lets execute some commands of git.and try to use it on bash
